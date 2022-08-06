@@ -19,7 +19,7 @@
    4. UIEB results folder: `UIEB_result_path`
    5. NUYv2 results folder: `UWCNN_result_path`
    6. 
-      Model path: `modle_path
+      Model path: `modle_path`
 
 # testing
 
